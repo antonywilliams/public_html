@@ -1,0 +1,30 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+      	<title>Antony Williams</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="description" content="Personal portal of Antony Williams, an Electrical Engineer working for HP in American Fork, UT" />
+        <meta name="author" content="Antony Williams" />
+        <meta name="keywords" content="personal portal, linux, technology, gadgets, engineering" />
+        <link rel="shortcut icon" href="portal/favicon.ico" type="image/x-icon" />
+        <link type="text/css" rel="stylesheet" media="all" href="http://www.antonywilliams.com/portal/css/style2.css" />
+        <link type="text/css" rel="stylesheet" media="print" href="http://www.antonywilliams.com/portal/css/style1.css" />
+        <!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="http://www.antonywilliams.com/portal/css/ie6-style.css" /><![endif]-->
+        <script type="text/javascript" src="http://www.antonywilliams.com/portal/js/javascript1.js"></script>
+</head>
+<body class="home">
+        <div id="header">
+                <h1><a href="http://www.antonywilliams.com" id="logo"><span>antony williams</span></a></h1>
+        </div>
+              	<div id="wrapper">
+                <div id="content">
+                        <h1>500 - internal server error</h1>
+                </div>
+        </div>
+<div id="block-block-2" class="block block-block">
+        <div class="content">&copy; 2011 | <a href="http://www.antonywilliams.com">Antony Williams</a>  </div>
+        </div>
+</div>
+</body>
+</html>
